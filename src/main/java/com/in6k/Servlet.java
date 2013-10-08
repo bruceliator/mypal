@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-public class Servlet extends HttpServlet{
+public class Servlet1 extends HttpServlet{
 
     private static Logger transactionLog = Logger.getLogger(Servlet.class.getName());
 
