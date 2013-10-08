@@ -79,10 +79,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TransactionServlet.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TransactionServlet.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/in6k/TransactionServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="52" selection-start="1589" selection-end="1589" vertical-scroll-proportion="0.62974685">
+            <state line="38" column="52" selection-start="1589" selection-end="1589" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,10 +101,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Transaction.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Transaction.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/in6k/Transaction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="32" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0">
+            <state line="15" column="32" selection-start="423" selection-end="423" vertical-scroll-proportion="0.4272152">
               <folding />
             </state>
           </provider>
@@ -788,19 +788,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/in6k/Transaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="32" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/in6k/TransactionServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="52" selection-start="1589" selection-end="1589" vertical-scroll-proportion="0.62974685">
+        <state line="38" column="52" selection-start="1589" selection-end="1589" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/in6k/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="32" selection-start="423" selection-end="423" vertical-scroll-proportion="0.4272152">
+          <folding />
         </state>
       </provider>
     </entry>
